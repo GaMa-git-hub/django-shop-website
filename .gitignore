@@ -1,0 +1,19 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Django SQLite database
+*.sqlite3
+db.sqlite3
+
+# Django secret settings (optional)
+.env
+
+# IDEs
+.idea/
+
+# Logs
+*.log
